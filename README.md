@@ -1,6 +1,6 @@
 # rafald.github.io
 
-[_"Functional programmers can not write quicksort"_](https://www.youtube.com/watch?v=cK_kftBNgBc&t=56m50s) Sean Parent
+[_"Functional programmers can not write quicksort /It’s not that I’m lazy, it’s that I just don’t care/"_](https://www.youtube.com/watch?v=cK_kftBNgBc&t=56m50s) Sean Parent
 
 ### My C++ development environment
 **Editor**: [Atom](https://atom.io/) (It is well integrated with github) with plugins:
