@@ -1,5 +1,7 @@
 # rafald.github.io
 
+[_"Functional programmers can not write quicksort"_](https://www.youtube.com/watch?v=cK_kftBNgBc&t=56m50s) Sean Parent
+
 ### My C++ development environment
 **Editor**: [Atom](https://atom.io/) (It is well integrated with github) with plugins:
 - [autocomplete-clang](https://atom.io/packages/autocomplete-clang)  
