@@ -12,6 +12,5 @@ Spaces must not be escaped or surraouded by "", example:
 -Ilib/dir with spaces/include
 ```
 
-References: https://promethe.io/2015/07/31/atom-plugins-for-c-development/
-
+# Tennis
 [![Watch the video](https://img.youtube.com/vi/eJBC0uC_xHg/maxresdefault.jpg)](https://youtu.be/eJBC0uC_xHg?t=61)
