@@ -17,6 +17,3 @@ Spaces must not be escaped or surraouded by "", example:
 - *Natural transformations* are meant to capture the idea that a transformation is “natural” in the sense of not depending on any arbitrary choices.
 **The components of α are reusabe** - depend on the objects A and B but _not on the arrow f_. If f represents any other arrow from A to B in the original category, the same arrows αA and αB fill in the diagram.
 
-
-# Tennis
-[![Watch the video](https://img.youtube.com/vi/eJBC0uC_xHg/maxresdefault.jpg)](https://youtu.be/eJBC0uC_xHg?t=61)
